@@ -2,7 +2,7 @@
 
 This project is a 2-axis robotic arm built with a Raspberry Pi Pico and controlled in real-time from a host computer. It serves as a foundational project in embedded systems, demonstrating a professional host-client architecture, object-oriented programming for hardware control, and a stateful, non-blocking control loop.
 
-<img width="1317" height="988" alt="image of the cardboard arm in all its glory" src="https://github.com/user-attachments/assets/1b3f9ef1-f98c-4e3d-a9be-edfdfde68e3e" />
+<img width="2610" height="1958" alt="v2 of arm with lego bricks" src="https://github.com/user-attachments/assets/d5ecc350-9d05-4f98-a597-7fe082105e34" />
 
 ---
 
