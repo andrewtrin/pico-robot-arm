@@ -1,6 +1,6 @@
 # Pico Robotic Arm Controller
 
-This project is a 2-axis robotic arm built with a Raspberry Pi Pico and controlled in real-time from a host computer. It serves as a foundational project in embedded systems, demonstrating a professional host-client architecture, object-oriented programming for hardware control, and a stateful, non-blocking control loop.
+This project is a 2-axis robotic arm built with a Raspberry Pi Pico and controlled in real-time from a host computer. It serves as a foundational project in embedded systems, demonstrating a professional host-client architecture, object-oriented programming for hardware control, and a stateful, non-blocking control loop. The chassis is also built around Lego bricks, a choice that highlights creative prototyping by leveraging common materials to overcome equipment constraints.
 
 <img width="2610" height="1958" alt="v2 of arm with lego bricks" src="https://github.com/user-attachments/assets/d5ecc350-9d05-4f98-a597-7fe082105e34" />
 
